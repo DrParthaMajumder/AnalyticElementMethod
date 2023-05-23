@@ -1,3 +1,10 @@
+
+# Analytic element method for groundwater flow modeling
+
+# Developer: Dr. Partha Majumder (parthamajpk@gmail.com)
+
+# **********************************************BACKGROUND***************************************************************************
+
 # AnalyticElementMethod
 The Analytic Element Method (AEM) is a numerical technique used for groundwater flow modeling in hydrogeology. It employs analytic elements, which are mathematical functions, to represent hydrogeological features and solve the governing groundwater flow equations. 
 AEM offers several advantages over traditional numerical methods, such as its ability to handle complex aquifer geometries and heterogeneities, its computational efficiency, and its flexibility in incorporating transient conditions. It provides a powerful tool for simulating groundwater flow and solving a wide range of hydrogeological problems. In AEM, various types of analytic elements are used to represent different hydrogeological features. These elements have analytical solutions that simplify the computational process and enhance the accuracy of the modeling results. Here are some commonly used types of analytic elements in AEM:
