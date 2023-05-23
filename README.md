@@ -1,7 +1,6 @@
 
 # Analytic element method for groundwater flow modeling
-The codes given here are part of Ph.D. research of Dr. Partha Majumder.
-I have uploaded only the basic analytic elements while considering simple aquifer configurations.
+The provided codes are a component of the Ph.D. research conducted by Dr. Partha Majumder. I have shared the foundational analytic elements specifically tailored for uncomplicated aquifer setups.
 
 # Developer: Dr. Partha Majumder (parthamajpk@gmail.com)
 
