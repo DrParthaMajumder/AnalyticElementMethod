@@ -33,6 +33,19 @@ Represents a localized area of groundwater recharge, such as rainfall infiltrati
 By combining these different types of analytic elements appropriately, complex hydrogeological features and boundary conditions can be accurately modeled using AEM. The flexibility and efficiency of AEM make it a valuable tool for groundwater flow modeling, helping scientists and engineers gain insights into groundwater behavior and make informed decisions in hydrogeological projects.
 
 
+# License
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+
 
 
 
